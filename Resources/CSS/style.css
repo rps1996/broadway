@@ -22,6 +22,7 @@ body {
 .backimage h2 {
 
   font-size: 23px;
+  font-weight: bold;
 
 }
 
@@ -36,6 +37,38 @@ nav {
 
   background-image: url("../Images/the-flatiron-building.png");
   text-align: left;
+  color: white;
+
+}
+
+.main {
+
+
+  font-size: 14px;
+
+}
+.main h1 {
+
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+.main h2 {
+
+  font-size: 23px;
+  font-weight: bold;
+
+}
+
+nav p {
+
+    font-size: 11px;
+
+}
+
+nav a {
+
   color: white;
 
 }
