@@ -3,3 +3,16 @@ body {
   text-align: center;
 
 }
+
+.backimage {
+
+  background-image: url("../Images/the-flatiron-building.png");
+
+}
+
+nav {
+
+  background-image: url("../Images/the-flatiron-building.png");
+  text-align: left;
+
+}
